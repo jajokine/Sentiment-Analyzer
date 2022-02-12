@@ -5,7 +5,7 @@
 #--------------------------------------------------------------------------------------------------------------------#
 
 
-# Helper Function (given)
+# Helper Functions (given)
 
 def get_order(n_samples):
     """
@@ -26,6 +26,14 @@ def get_order(n_samples):
         indices = list(range(n_samples))
         random.shuffle(indices)
         return indices
+
+def accuracy(preds, targets):
+    """
+    Given length-N vectors containing predicted and target labels,
+    returns the percentage and number of correct predictions.
+    """
+    
+    return (preds == targets).mean()
 
 
       
