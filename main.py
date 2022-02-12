@@ -25,7 +25,7 @@ test_bow_features = p1.extract_bow_feature_vectors(test_texts, dictionary)
 
 # ---------------------------------------------------------------------------------------------#
 #                                                                                              #
-#              Problem 5 - Qualitatively verify the Classifiers (uncomment to access)          #
+#                       Problem 5 - Qualitatively verify the Classifiers                       #
 #                                                                                              #
 # ---------------------------------------------------------------------------------------------#
 
@@ -51,7 +51,7 @@ plot_toy_results('Pegasos', thetas_pegasos)
 
 # --------------------------------------------------------------------------------------------#
 #                                                                                             #
-#               Problem 7 - Baseline Accuracy (uncomment to access)                           #
+#                               Problem 7 - Baseline Accuracy                                 #
 #                                                                                             #
 # --------------------------------------------------------------------------------------------#
 
@@ -74,7 +74,7 @@ print("{:50} {:.4f}".format("Validation accuracy for Pegasos:", avg_peg_val_accu
 
 #---------------------------------------------------------------------------------------------#
 #                                                                                             #
-#               Problem 8 - Performance After Tuning (uncomment to access)                    #
+#                           Problem 8 - Performance After Tuning                              #
 #                                                                                             #
 #---------------------------------------------------------------------------------------------#
 
