@@ -14,4 +14,7 @@ Additional helper functions were given to complete the project in two weeks of t
 **ACCESSING CODE**
 
 The file main.py runs the code with the help of the two modules (project1.py and utils.py) that contain helper and utility functions.
-The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command pip install -r requirements.txt.
+
+The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
+
+      pip install -r requirements.txt
