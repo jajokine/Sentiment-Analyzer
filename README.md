@@ -1,5 +1,6 @@
-# Sentiment-Analyzer
-MITx - MicroMasters Program on Statistics and Data Science - Machine Learning with Python 
+## Sentiment-Analyzer
+
+# MITx - MicroMasters Program on Statistics and Data Science - Machine Learning with Python 
 
 First Project - Linear Classifier for Sentiment Analysis
 
@@ -11,7 +12,7 @@ The goal of the project was first to implement and compare three types of linear
 
 Additional helper functions were given to complete the project in two weeks of time.
 
-**ACCESSING CODE**
+## Access and requirements
 
 The file main.py runs the code with the help of the two modules (project1.py and utils.py) that contain helper and utility functions.
 
