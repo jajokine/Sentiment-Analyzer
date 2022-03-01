@@ -12,7 +12,7 @@ The goal of the project was first to implement and compare three types of linear
 
 Additional helper functions were given to complete the project in two weeks of time.
 
-## Access and requirements
+## Access and Requirements
 
 The file main.py runs the code with the help of the two modules (project1.py and utils.py) that contain helper and utility functions.
 
