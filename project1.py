@@ -334,7 +334,7 @@ def bag_of_words(texts):
     """
     
     # Reading stopwords from file and saving them
-    with open("stopwords.txt", 'r', encoding='utf8') as stop_text:
+    with open("data\stopwords.txt", 'r', encoding='utf8') as stop_text:
         stop_words = stop_text.read()
         stop_words = stop_words.replace("\n", " ").split()
 
