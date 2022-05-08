@@ -10,8 +10,6 @@ The training set consists of reviews written by Amazon customers for various foo
 
 The goal of the project was first to implement and compare three types of linear classifiers: the Perceptron algorithm, the Average Percetron algorithm, and the Pegasus algorithm. Secondly, to use these classifiers on the food review dataset by using some simple text features, and finally, to experiment with additional features and explore their impact on classifier performance.
 
-Additional helper functions were given to complete the project in two weeks of time.
-
 ## Access and Requirements
 
 The file main.py runs the code with the help of the two modules (project1.py and utils.py) that contain helper and utility functions.
